@@ -1,0 +1,86 @@
+Privacy Policy
+Effective Date: December 18, 2024
+
+Thank you for visiting our website. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you access our website.
+
+1. Information We Collect
+a. Personal Information: When you visit our website, we may collect certain personal information from you, such as your name, email address, and website (if provided). This information is collected when you voluntarily submit it to us, such as when you sign up for our newsletter, leave a comment, or interact with our website in other ways.
+
+Legal Basis: We process this information based on your consent or for the performance of a contract (e.g., sending the newsletter you have subscribed to).
+
+b. Non-Personal Information: We may also collect non-personal information automatically, such as your IP address, browser type, operating system, and browsing behavior on our website. This information is collected through cookies, web beacons, and similar technologies. Please refer to our Cookie Policy below for more details.
+
+Legal Basis: We process this information based on our legitimate interest in improving our website and services.
+
+2. How We Use Your Information
+We use the information we collect for the following purposes:
+
+Personal Information: To fulfill your requests, respond to your inquiries, and send you updates and news related to our website.
+Non-Personal Information: To analyze trends, administer the website, track user activity, and gather demographic information to enhance website functionality and content.
+Analytics and Advertising: We use Google Analytics to analyze website traffic and improve user experience. We may also allow third-party advertisers, such as Google AdSense, to display ads. These partners may use cookies or similar tracking technologies to collect data about your activity on our website and other sites to provide personalized advertisements. Please review their respective privacy policies for details on their data practices.
+Legal Basis for Data Sharing: Data sharing with third-party service providers and advertising partners is based on Standard Contractual Clauses (SCCs) approved by the EU or ensuring that the third parties are certified under the EU-U.S. Data Privacy Framework (formerly Privacy Shield).
+
+3. Sharing of Information
+We do not sell user information. All information collected from users is strictly used within our team for technical support of the website, customer interaction and support, and improving user experience. We are committed to protecting the confidentiality of your information and will not use it for any other purpose except where required by law.
+
+4. Comments
+Our website allows users to leave comments on specific content. When you submit a comment, we collect your name, email address, and website (if provided). Please note that while your name will be publicly displayed, your email address will not be made public.
+
+Legal Basis: We process this information based on your consent when you choose to submit a comment.
+
+5. Security
+We are committed to protecting the security of your personal information. We implement appropriate technical and organizational measures to safeguard your data from unauthorized access, disclosure, alteration, or destruction. These measures include:
+
+Encryption: We use SSL encryption to protect sensitive data transmitted over the internet.
+Firewalls: We use firewalls to prevent unauthorized access to our systems.
+Access Controls: We restrict access to your personal information to employees who need to know that information to perform their job duties.
+Regular Security Audits: We regularly review our security practices to ensure their effectiveness.
+6. Your Rights
+You have the following rights regarding your personal information:
+
+Access: You have the right to request a copy of the personal information we hold about you.
+Correction: You have the right to request that we correct any inaccurate personal information we hold about you.
+Deletion: You have the right to request that we delete your personal information in certain circumstances, such as when the information is no longer necessary for the purposes for which it was collected.
+Restriction of Processing: You have the right to request that we restrict the processing of your personal information in certain circumstances, such as when you contest the accuracy of that information.
+Objection: You have the right to object to the processing of your personal information in certain circumstances, such as when we process it for direct marketing purposes.
+No Automated Decision-Making: You have the right not to be subject to decisions based solely on automated processing, including profiling, that produce legal effects concerning you or significantly affect you.
+Complaints to Supervisory Authority: You have the right to lodge a complaint with a supervisory authority if you believe that the processing of your personal information violates the GDPR.
+If you wish to exercise any of these rights, please contact us using the contact information provided below.
+
+7. Changes to This Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time. Any changes will take effect immediately upon posting the updated Privacy Policy on this page. We encourage you to review this Privacy Policy periodically to stay informed of any changes. Your continued use of our website after any changes will signify your acceptance of those changes.
+
+8. Cookie Policy
+This website uses cookies to enhance the user experience and provide personalized services. Cookies are small text files stored on your computer by your web browser.
+
+Types of Cookies We Use:
+Essential Cookies: These cookies are necessary for the operation of the website. They enable you to navigate the site and use essential features, such as logging in and accessing secure areas.
+Performance Cookies: These cookies collect information about how visitors use the website, such as which pages are most frequently visited and whether they encounter any error messages. These cookies do not collect personally identifiable information. All information collected by these cookies is aggregated and anonymous.
+Functionality Cookies: These cookies allow the website to remember choices you make (such as your username, language, or region) and provide enhanced, more personalized features.
+Targeting/Advertising Cookies: These cookies are used to deliver ads that are relevant to you and your interests. They are also used to limit the number of times you see an ad and measure the effectiveness of ad campaigns.
+Managing Cookies:
+You can control and manage cookies in various ways. Most web browsers allow you to block cookies, delete existing cookies, and set preferences to be notified before cookies are placed on your computer. Please refer to your browser’s instructions for more information on how to manage cookies.
+
+9. Non-Discrimination
+We will not discriminate against you for exercising any of your privacy rights. This means we will not deny you services, charge you different prices, or provide a different level of service if you choose to exercise your rights regarding your personal data.
+
+10. California Consumer Privacy Act (CCPA)
+a. No Sale of Personal Information: We do not sell your personal information to third parties. If you are a resident of California, you have the right to request that we do not sell your personal information, but please be assured that we do not engage in this practice.
+
+b. Right to Access: If you are a resident of California, you have the right to request a copy of the personal information that we have collected about you. To make this request, please contact us at youmail@gmail.com.
+
+c. Right to Delete: You have the right to request that we delete your personal information, with some exceptions. For more details, please contact us at youmail@gmail.com.
+
+d. Right to Non-Discrimination: We will not discriminate against you for exercising your rights under CCPA. This means that you can still use our website and access services even if you choose to exercise any of your rights under CCPA.
+
+11. International Data Transfers
+Your information may be transferred to, and maintained on, servers located outside your country of residence. By using our services and providing us with your personal information, you consent to the transfer of your information to countries outside your country of residence, including the European Economic Area (EEA) and the United States.
+
+We ensure that your data will be handled securely and in compliance with applicable data protection laws. If we transfer personal data outside the EEA, we implement appropriate safeguards, such as standard contractual clauses or other valid mechanisms to ensure compliance with EU data protection regulations.
+
+We use Google Analytics, a web analytics service provided by Google LLC, based in the United States. Google LLC is certified under the EU-U.S. Privacy Shield Framework, which ensures that your personal data will be protected when transferred to the United States. The data transfer is carried out in compliance with standard contractual clauses or other valid protective measures to ensure compliance with European Union (EU) data protection regulations.
+
+12. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at youmail@gmail.com.
+
+By using our website, you consent to the terms of this Privacy Policy.
